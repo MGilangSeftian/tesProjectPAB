@@ -52,7 +52,7 @@ List<Novel> novels = [
       author: 'Tere Liye',
       tahun_terbit: '2016',
       penerbit: 'Republika Penerbit',
-      linkNovel : 'https://drive.google.com/file/d/1m7H4nCyVqZlNw9Jy323WV2p1KgHL-6FK/view',
+      linkNovel : 'https://drive.google.com/file/d/1SDX30pl3tWF9nGmxaGRmimuyJPMLFowE/view',
       synopsis: 'Zam, seorang pengacara muda yang tinggal di London, mendapatkan tugas untuk menyelesaikan kasus warisan yang membawa dia ke berbagai negara. Dalam perjalanannya, ia menemukan kisah hidup yang luar biasa dari sosok bernama Sri Ningsih.',
       review: 'Sebuah novel yang menyentuh dan memberikan banyak pelajaran hidup. Tere Liye berhasil menyampaikan kisah yang penuh makna, dengan latar cerita yang menarik dan emosional.',
       kategori : 'Romantis'
