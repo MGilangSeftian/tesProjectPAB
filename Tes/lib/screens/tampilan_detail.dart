@@ -125,3 +125,5 @@ class _TampilanDetailState extends State<TampilanDetail> {
     );
   }
 }
+
+st
